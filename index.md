@@ -105,7 +105,7 @@ Other options:
         --stop-at-load               Stop immediately when the debugging feature is loaded.
 ```
 ---
-<style scoped>section { font-size: 20px; }</style>
+<style scoped>section { font-size: 16px; }</style>
 
 # Examples
 ```bash
